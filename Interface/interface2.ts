@@ -2,7 +2,7 @@ interface Reportable {
     summary(): string;
 }
 
-const oldCivic = {
+const oldCivic2 = {
     name: 'Civic',
     year: 2000,
     broken: true,
